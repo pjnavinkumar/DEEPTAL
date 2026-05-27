@@ -10,7 +10,7 @@ You can download from the link, https://github.com/pjnavinkumar/DEEPTAL/releases
 - **Release Date:** 27 May 2026  
 ### Authors
 - **Prof. RAAJ Ramsankaran**
-- **Dr. P J Navinkumar**, **Mrs. J S Gopika**, **Dr. Rahul Kumar**  
+- **Dr. P J Navinkumar**, **Ms. J S Gopika**, **Dr. Rahul Kumar**  
 Department of Civil Engineering  
 Indian Institute of Technology (IIT) Bombay  
 ---
