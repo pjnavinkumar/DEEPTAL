@@ -245,10 +245,7 @@ http://127.0.0.1:3361
 If you use DEEPTAL in your research, please cite:
 
 ```text
-Ramsankaran, R., Navinkumar, P. J., Gopika, J. S., & Kumar, R. (2026).
-DEEPTAL v1.0: DEtection and Evaluation of overdeepenings as Potential sites
-for future glacial TAL (Lake) [Software].
-Indian Institute of Technology Bombay, Mumbai, India.
+Ramsankaran, R., Navinkumar, P. J., Gopika, J. S., & Kumar, R. (2026). DEEPTAL v1.0: DEtection and Evaluation of overdeepenings as Potential sites for future glacial TAL (Lake) [Software]. Indian Institute of Technology Bombay, Mumbai, India.
 ```
 
 ---
